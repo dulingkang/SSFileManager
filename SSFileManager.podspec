@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "SSFileManager"
-  spec.version = "v1.0.0"
+  spec.version = "1.0.0"
   spec.summary = "manager file in storage"
   spec.homepage = "https://github.com/dulingkang/SSFileManager"
   spec.license = { type: 'MIT', file: 'LICENSE' }
